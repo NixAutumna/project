@@ -1,7 +1,7 @@
 package progress.override_;
 /**
  * 关于方法重写
- * @auther Bai_YiA2
+ * @auther NixAutumna
  */
 public class Override {
     public static void main(String[] args) {

@@ -1,7 +1,7 @@
 package progress.designpattern.single;
 /**
  * 关于单例设计模式
- * @auther Bai_YiA2
+ * @auther NixAutumna
  */
 public class SingleTon {
     public static void main(String[] args) {

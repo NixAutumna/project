@@ -1,7 +1,7 @@
 package progress.super_;
 /**
  * 关于super
- * @auther Bai_YiA2
+ * @auther NixAutumna
  */
 public class Super {
     public static void main(String[] args) {

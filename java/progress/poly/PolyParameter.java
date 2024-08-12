@@ -1,7 +1,7 @@
 package progress.poly;
 /**
  * 关于多态参数
- * @auther Bai_YiA2
+ * @auther NixAutumna
  */
 public class PolyParameter {
     

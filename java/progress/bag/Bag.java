@@ -4,7 +4,7 @@
 package progress.bag;
 /**
  * 关于包
- * @auther Bai_YiA2
+ * @auther NixAutumna
  */
 public class Bag {
     public static void main(String[] args) {

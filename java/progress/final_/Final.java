@@ -1,7 +1,7 @@
 package progress.final_;
 /**
  * 关于final关键字
- * @auther Bai_YiA2
+ * @auther NixAutumna
  */
 public class Final {
     public static void main(String[] args) {

@@ -1,13 +1,13 @@
 package progress.poly;
 /**
  * 关于多态数组
- * @auther Bai_YiA2
+ * @auther NixAutumna
  */
 public class PloyArray {
     public static void main(String[] args) {
         Person[] people = new Person[3];
-        people[0] = new Student("Bai_YiA2", 13, 800);
-        people[1] = new Teacher("G.Y.X.", 13, 50000.99);
+        people[0] = new Student("NixAutumna", 13, 800);
+        people[1] = new Teacher("Violet", 13, 50000.99);
         people[2] = new Person("ers", 1, 1);
         for (int i = 0; i < people.length; i++) {
             if (people[i] instanceof Student) {

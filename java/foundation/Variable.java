@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 /**
  * 关于数据结构
- * @author Bai_YiA2
+ * @author NixAutumna
  * @version 1.0
  */
 public class Variable {
@@ -22,7 +22,7 @@ public class Variable {
         // !!!警告：在实际开发中不能使用a,b,n1,n2命名变量
         /**
          * 关于基本类型
-         * @author Bai_YiA2
+         * @author NixAutumna
          * @version 1.0
          */
 
@@ -117,7 +117,7 @@ public class Variable {
 
         /**
          * 关于自动转化
-         * @auther Bai_YiA2
+         * @auther NixAutumna
          * @version 1.0
          */
         /*
@@ -134,7 +134,7 @@ public class Variable {
 
         /**
          * 关于强制转换
-         * @auther Bai_YiA2
+         * @auther NixAutumna
          * @version 1.0
          */
         /*
@@ -165,7 +165,7 @@ public class Variable {
 
         /**
          * 关于引用数据类型
-         * @author Bai_YiA2
+         * @author NixAutumna
          * @version 1.0
          */
         /**

@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /**
  * 关于面向对象
- * @author Bai_YiA2
+ * @author NixAutumna
  * @version 1.0
  */
 public class Object {

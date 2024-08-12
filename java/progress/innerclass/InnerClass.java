@@ -2,7 +2,7 @@ package progress.innerclass;
 
 /**
  * 关于内部类
- * @auther Bai_YiA2
+ * @auther NixAutumna
  */
 public class InnerClass {
     public static void main(String[] args) {
@@ -28,7 +28,7 @@ public class InnerClass {
 
 /**
  * 关于局部内部类
- * @auther Bai_YiA2
+ * @auther NixAutumna
  */
 class LocalInnerClass {// 外部类
     private int num = 100;
@@ -64,7 +64,7 @@ class LocalInnerClass {// 外部类
 }
 
 /**关于匿名内部类
- * @auther Bai_YiA2
+ * @auther NixAutumna
  */
 class AnonymousInnerClass {// 外部类
     /*

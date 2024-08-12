@@ -1,22 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="b30ef780-e4fc-47e6-a31b-c6f1db889e95" name="Changes" comment="" />
+    <list default="true" id="b30ef780-e4fc-47e6-a31b-c6f1db889e95" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Poker.java" beforeDir="false" afterPath="$PROJECT_DIR$/Poker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Try.java" beforeDir="false" afterPath="$PROJECT_DIR$/Try.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foundation/ControlStructure.java" beforeDir="false" afterPath="$PROJECT_DIR$/foundation/ControlStructure.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foundation/Object.java" beforeDir="false" afterPath="$PROJECT_DIR$/foundation/Object.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foundation/Operator.java" beforeDir="false" afterPath="$PROJECT_DIR$/foundation/Operator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foundation/Variable.java" beforeDir="false" afterPath="$PROJECT_DIR$/foundation/Variable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/progress/abstract_/Abstract.java" beforeDir="false" afterPath="$PROJECT_DIR$/progress/abstract_/Abstract.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/progress/bag/Bag.java" beforeDir="false" afterPath="$PROJECT_DIR$/progress/bag/Bag.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/progress/change/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/progress/change/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/progress/defaultclass/AboutObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/progress/defaultclass/AboutObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/progress/designpattern/single/SingleTon.java" beforeDir="false" afterPath="$PROJECT_DIR$/progress/designpattern/single/SingleTon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/progress/designpattern/single/Template.java" beforeDir="false" afterPath="$PROJECT_DIR$/progress/designpattern/single/Template.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/progress/encapsulation/Encapsulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/progress/encapsulation/Encapsulation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/progress/extends_/Extends.java" beforeDir="false" afterPath="$PROJECT_DIR$/progress/extends_/Extends.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/progress/extends_/Override.java" beforeDir="false" afterPath="$PROJECT_DIR$/progress/extends_/Override.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/progress/extends_/Super.java" beforeDir="false" afterPath="$PROJECT_DIR$/progress/extends_/Super.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/progress/final_/Final.java" beforeDir="false" afterPath="$PROJECT_DIR$/progress/final_/Final.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/progress/innerclass/InnerClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/progress/innerclass/InnerClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/progress/interface_/Interface.java" beforeDir="false" afterPath="$PROJECT_DIR$/progress/interface_/Interface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/progress/poly/AboutInstanceOf.java" beforeDir="false" afterPath="$PROJECT_DIR$/progress/poly/AboutInstanceOf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/progress/poly/DynamicBinding.java" beforeDir="false" afterPath="$PROJECT_DIR$/progress/poly/DynamicBinding.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/progress/poly/PloyArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/progress/poly/PloyArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/progress/poly/PolyMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/progress/poly/PolyMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/progress/poly/PolyObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/progress/poly/PolyObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/progress/poly/PolyParameter.java" beforeDir="false" afterPath="$PROJECT_DIR$/progress/poly/PolyParameter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/progress/static_/CodeBlock.java" beforeDir="false" afterPath="$PROJECT_DIR$/progress/static_/CodeBlock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/progress/static_/StaticMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/progress/static_/StaticMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/progress/static_/StaticVariables.java" beforeDir="false" afterPath="$PROJECT_DIR$/progress/static_/StaticVariables.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="2kYfI22v7BJGxM52frfzaDCZVNI" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

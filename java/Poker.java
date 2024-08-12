@@ -5,7 +5,7 @@ import java.util.Arrays;
 
 /**
  * 梭哈各牌型出现频率一览
- * @author Bai_YiA2
+ * @author NixAutumna
  */
 public class Poker{
     public static void main(String[] args) {

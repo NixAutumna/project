@@ -3,7 +3,7 @@ package foundation;
 import java.util.Scanner;
 /**
  * 关于程序控制结构
- * @author Bai_YiA2
+ * @author NixAutumna
  * @version 1.0
  */
 public class ControlStructure {
@@ -16,7 +16,7 @@ public class ControlStructure {
 
         /**
          * 关于if的用法
-         * @author Bai_YiA2
+         * @author NixAutumna
          * @version 1.0
          */
         /*
@@ -98,7 +98,7 @@ public class ControlStructure {
 
         /**
          * 关于Switch的使用
-         * @author Bai_YiA2
+         * @author NixAutumna
          * @version 1.0
          */
         /*
@@ -166,7 +166,7 @@ public class ControlStructure {
 
         /**
          * 关于for循环
-         * @author Bai_YiA2
+         * @author NixAutumna
          * @version 1.0
          */
         /*
@@ -203,7 +203,7 @@ public class ControlStructure {
 
         /**
          * 关于while的用法
-         * @author Bai_YiA2
+         * @author NixAutumna
          * @version 1.0
          */
         /*
@@ -223,7 +223,7 @@ public class ControlStructure {
 
         /**
          * 关于Do--while
-         * @author Bai_YiA2
+         * @author NixAutumna
          * @version 1.0
          */
         /*
@@ -285,7 +285,7 @@ public class ControlStructure {
 
         /**
          * 关于break的使用
-         * @author Bai_YiA2
+         * @author NixAutumna
          * @version 1.0
          */
         /*
@@ -311,7 +311,7 @@ public class ControlStructure {
 
         /**
          * 关于continue
-         * @author Bai_YiA2
+         * @author NixAutumna
          * @version 1.0
          */
         /*
@@ -334,7 +334,7 @@ public class ControlStructure {
 
         /**
          * 关于return的使用
-         * @author Bai_YiA2
+         * @author NixAutumna
          * @version 1.0
          */
         /*

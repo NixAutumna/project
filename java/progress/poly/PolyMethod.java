@@ -2,7 +2,7 @@ package progress.poly;
 
 /**
  * 关于方法多态
- * @auther Bai_YiA2
+ * @auther NixAutumna
  */
 public class PolyMethod {
     /*

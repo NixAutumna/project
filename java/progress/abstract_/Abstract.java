@@ -1,7 +1,7 @@
 package progress.abstract_;
 /**
  * 关于abstract
- * @auther Bai_YiA2
+ * @auther NixAutumna
  */
 public class Abstract {
     public static void main(String[] args) {

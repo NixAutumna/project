@@ -2,7 +2,7 @@ package progress.encapsulation;
 
 /**
  * 关于封装
- * @auther Bai_YiA2
+ * @auther NixAutumna
  */
 public class Encapsulation {
     public static void main(String[] args) {
@@ -14,8 +14,8 @@ public class Encapsulation {
         System.out.println(enc.info());// 输出信息
         
         // 使用构造器set
-        Enc baiYiA2 = new Enc("Bai_YiA2", 13, 2342.3);
-        System.out.println(baiYiA2.info());
+        Enc nix = new Enc("NixAutumna", 13, 2342.3);
+        System.out.println(nix.info());
     }
 }
 

@@ -1,7 +1,7 @@
 package progress.interface_;
 /**
  * 关于接口
- * @auther Bai_YiA2
+ * @auther NixAutumna
  */
 public class Interface {
     public static void main(String[] args) {

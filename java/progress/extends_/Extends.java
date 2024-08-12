@@ -1,7 +1,7 @@
 package progress.extends_;
 /**
  * 关于继承
- * @auther Bai_YiA2
+ * @auther NixAutumna
  */
 public class Extends {
     public static void main(String[] args) {

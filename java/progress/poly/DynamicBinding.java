@@ -1,7 +1,7 @@
 package progress.poly;
 /**
  * 关于动态绑定机制
- * @auther Bai_YiA2
+ * @auther NixAutumna
  */
 public class DynamicBinding {
     public static void main(String[] args) {

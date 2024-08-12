@@ -1,7 +1,7 @@
 package progress.static_;
 /**
  * 关于代码块
- * @auther Bai_YiA2
+ * @auther NixAutumna
  */
 public class CodeBlock {
     public static void main(String[] args) {

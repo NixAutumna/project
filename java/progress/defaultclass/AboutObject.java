@@ -1,7 +1,7 @@
 package progress.defaultclass;
 /**
  * 关于Object部分方法的详解
- * @auther Bai_YiA2
+ * @auther NixAutumna
  */
 public class AboutObject {
     public static void main(String[] args) {

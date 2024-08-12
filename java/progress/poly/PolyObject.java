@@ -2,7 +2,7 @@ package progress.poly;
 
 /**
  * 关于对象的多态
- * @auther Bai_YiA2
+ * @auther NixAutumna
  */
 public class PolyObject {
     /*

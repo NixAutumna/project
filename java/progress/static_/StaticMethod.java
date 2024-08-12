@@ -2,7 +2,7 @@ package progress.static_;
 
 /**
  * 关于类方法
- * @auther Bai_YiA2
+ * @auther NixAutumna
  */
 public class StaticMethod {
     public static void main(String[] args) {

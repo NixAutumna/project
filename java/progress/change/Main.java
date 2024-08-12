@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /**
  * 零钱通主方法
- * @auther Bai_YiA2
+ * @auther NixAutumna
  */
 public class Main {
     public static void main(String[] args) {

@@ -1,7 +1,7 @@
 package progress.poly;
 /**
  * 关于instanceof
- * @auther Bai_YiA2
+ * @auther NixAutumna
  */
 public class AboutInstanceOf {
     public static void main(String[] args) {

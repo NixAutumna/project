@@ -3,7 +3,7 @@ package foundation;
 /**
  * 关于运算符
  *
- * @author Bai_YiA2
+ * @author NixAutumna
  * @version 1.0
  */
 public class Operator {

@@ -1,7 +1,7 @@
 package progress.designpattern.single;
 /**
  * 关于抽象模板设计模式
- * @auther Bai_YiA2
+ * @auther NixAutumna
  */
 public class Template {
     public static void main(String[] args) {

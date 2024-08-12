@@ -2,7 +2,7 @@ package progress.static_;
 
 /**
  * 关于类变量
- * @auther Bai_YiA2
+ * @auther NixAutumna
  */
 public class StaticVariables {
     public static void main(String[] args) {
