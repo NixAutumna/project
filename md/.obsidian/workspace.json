@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "f2ffe2bb5a238cdd",
-        "type": "tabs",
+        "id": "a1775f0708e65efb",
+        "type": "split",
         "children": [
           {
-            "id": "c642e2e911e6efd9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "未命名.md",
-                "mode": "source",
-                "source": false
+            "id": "f2ffe2bb5a238cdd",
+            "type": "tabs",
+            "dimension": 64.34782608695652,
+            "children": [
+              {
+                "id": "c642e2e911e6efd9",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "机器学习_Machine_Learning_(Chinese_Edition)_(Zhou_Zhihua_周志华)_(Z-Library).pdf"
+                  }
+                }
               }
-            }
+            ]
+          },
+          {
+            "id": "05425723c617dd1b",
+            "type": "tabs",
+            "dimension": 35.65217391304348,
+            "children": [
+              {
+                "id": "24c3120d2d1c578c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "第一章 绪论.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -69,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 217.5
   },
   "right": {
     "id": "f98de8bcfec15a64",
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名.md",
+                "file": "第一章 绪论.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名.md",
+                "file": "第一章 绪论.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.md"
+                "file": "第一章 绪论.md"
               }
             }
           }
@@ -146,8 +171,22 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c642e2e911e6efd9",
+  "active": "24c3120d2d1c578c",
   "lastOpenFiles": [
-    "未命名.md"
+    "QQ_1723651072674.png",
+    "QQ_1723651049290.png",
+    "QQ_1723650727768.png",
+    "QQ_1723650718292.png",
+    "QQ_1723650582852 1.png",
+    "QQ_1723650582852.png",
+    "QQ_1723650556808 1.png",
+    "QQ_1723650556808.png",
+    "QQ_1723650443717.png",
+    "QQ_1723650372670.png",
+    "第一章 绪论.md",
+    "机器学习_Machine_Learning_(Chinese_Edition)_(Zhou_Zhihua_周志华)_(Z-Library).pdf",
+    "pumpkin_book.pdf",
+    "Dive-into-DL-PyTorch.pdf",
+    "数据集.md"
   ]
 }
