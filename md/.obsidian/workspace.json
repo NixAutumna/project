@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "第一章 绪论.md",
+                "file": "机器学习_Machine_Learning_(Chinese_Edition)_(Zhou_Zhihua_周志华)_(Z-Library).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "第一章 绪论.md",
+                "file": "机器学习_Machine_Learning_(Chinese_Edition)_(Zhou_Zhihua_周志华)_(Z-Library).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "第一章 绪论.md"
+                "file": "机器学习_Machine_Learning_(Chinese_Edition)_(Zhou_Zhihua_周志华)_(Z-Library).pdf"
               }
             }
           }
@@ -171,10 +171,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "24c3120d2d1c578c",
+  "active": "c642e2e911e6efd9",
   "lastOpenFiles": [
-    "机器学习_Machine_Learning_(Chinese_Edition)_(Zhou_Zhihua_周志华)_(Z-Library).pdf",
     "第一章 绪论.md",
+    "机器学习_Machine_Learning_(Chinese_Edition)_(Zhou_Zhihua_周志华)_(Z-Library).pdf",
     "QQ_1723911148535.png",
     "QQ_1723911140480.png",
     "QQ_1723908658485.png",
