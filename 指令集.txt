@@ -1,0 +1,4 @@
+git config --global core.autocrlf true
+git add .
+git commit -m "注释内容"
+git push -u origin master
