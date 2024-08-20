@@ -7,4 +7,3 @@
 - java: the notes of Han Shunping Java Class(haven't done)<br>
 - md: the notes of some books, use Obsidian to open them<br>
 - py: the notes of Han Shunping Python Class(have done)<br>
-- command-set-of-update-using-git: as the name<br>
