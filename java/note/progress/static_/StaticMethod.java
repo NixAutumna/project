@@ -1,9 +1,11 @@
 package progress.static_;
 
 /**
- * 关于类方法
- * @auther NixAutumna
+ * @Description : 关于类方法
+ * @Author : NixAutumna
+ * @CreateTime : 2024/8/21 22:45
  */
+
 public class StaticMethod {
     public static void main(String[] args) {
         /*

@@ -1,9 +1,11 @@
 package progress.poly;
 
 /**
- * 关于方法多态
- * @auther NixAutumna
+ * @Description : 关于方法多态
+ * @Author : NixAutumna
+ * @CreateTime : 2024/8/21 22:45
  */
+
 public class PolyMethod {
     /*
     方法或者对象具有多种状态，成为多态

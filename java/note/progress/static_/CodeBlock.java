@@ -1,8 +1,11 @@
 package progress.static_;
+
 /**
- * 关于代码块
- * @auther NixAutumna
+ * @Description : 关于代码块
+ * @Author : NixAutumna
+ * @CreateTime : 2024/8/21 22:45
  */
+
 public class CodeBlock {
     public static void main(String[] args) {
         /*

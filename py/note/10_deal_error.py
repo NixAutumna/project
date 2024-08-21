@@ -1,8 +1,9 @@
-# coding   : utf-8
-# @Version : 1.0
-# @Author  : NixAutumna
-# @File    : 10_deal_error.py
-# @Time    : 2024/8/10 14:13
+# -*- coding: UTF-8 -*-
+"""
+@Description  ：关于异常处理
+@Author       ：NixAutumna
+@CreateDate   ：2024/8/21 22:45
+"""
 
 # 错误分为语法错误和异常
 # 语法错误在编译前可以发现

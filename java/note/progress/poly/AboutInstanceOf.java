@@ -1,8 +1,11 @@
 package progress.poly;
+
 /**
- * 关于instanceof
- * @auther NixAutumna
+ * @Description : 关于instanceof
+ * @Author : NixAutumna
+ * @CreateTime : 2024/8/21 22:45
  */
+
 public class AboutInstanceOf {
     public static void main(String[] args) {
         // instanceof 比较操作符，判断对象类型是否是某类型或某类型的子类型

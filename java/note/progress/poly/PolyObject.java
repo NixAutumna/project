@@ -1,9 +1,11 @@
 package progress.poly;
 
 /**
- * 关于对象的多态
- * @auther NixAutumna
+ * @Description : 关于对象多态
+ * @Author : NixAutumna
+ * @CreateTime : 2024/8/21 22:45
  */
+
 public class PolyObject {
     /*
     对象的多态，一个对象的编译类型和运行类型可以不一致

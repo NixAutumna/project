@@ -1,10 +1,11 @@
 import java.util.Arrays;
 
 /**
- * 梭哈各牌型出现频率一览
- *
- * @author NixAutumna
+ * @Description : 梭哈各牌型概率计算
+ * @Author : NixAutumna
+ * @CreateTime : 2024/8/21 22:45
  */
+
 public class Poker {
     public static void main(String[] args) {
         new Probability().use();

@@ -1,8 +1,11 @@
 package progress.final_;
+
 /**
- * 关于final关键字
- * @auther NixAutumna
+ * @Description : 关于final
+ * @Author : NixAutumna
+ * @CreateTime : 2024/8/21 22:45
  */
+
 public class Final {
     public static void main(String[] args) {
         /*

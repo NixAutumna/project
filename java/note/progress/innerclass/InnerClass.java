@@ -1,9 +1,11 @@
 package progress.innerclass;
 
 /**
- * 关于内部类
- * @auther NixAutumna
+ * @Description : 关于内部类
+ * @Author : NixAutumna
+ * @CreateTime : 2024/8/21 22:45
  */
+
 public class InnerClass {
     public static void main(String[] args) {
         /*

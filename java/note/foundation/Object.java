@@ -3,10 +3,11 @@ package foundation;
 import java.util.Scanner;
 
 /**
- * 关于面向对象
- * @author NixAutumna
- * @version 1.0
+ * @Description : 关于面向对象
+ * @Author : NixAutumna
+ * @CreateTime : 2024/8/21 22:45
  */
+
 public class Object {
     public static void main(String[] args) {
 

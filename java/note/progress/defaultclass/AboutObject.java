@@ -1,8 +1,11 @@
 package progress.defaultclass;
+
 /**
- * 关于Object部分方法的详解
- * @auther NixAutumna
+ * @Description : Object部分方法
+ * @Author : NixAutumna
+ * @CreateTime : 2024/8/21 22:45
  */
+
 public class AboutObject {
     public static void main(String[] args) {
         /*

@@ -1,8 +1,9 @@
-# coding   : utf-8
-# @Version : 1.0
-# @Author  : NixAutumna
-# @File    : 01_hi.py
-# @Time    : 2024/7/29 14:25
+# -*- coding: UTF-8 -*-
+"""
+@Description  ：引入
+@Author       ：NixAutumna
+@CreateDate   ：2024/8/21 22:45
+"""
 print("hi py")
 # \t 制表符
 # \n 换行

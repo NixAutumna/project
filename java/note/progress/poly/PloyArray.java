@@ -1,8 +1,11 @@
 package progress.poly;
+
 /**
- * 关于多态数组
- * @auther NixAutumna
+ * @Description : 关于多态数组
+ * @Author : NixAutumna
+ * @CreateTime : 2024/8/21 22:45
  */
+
 public class PloyArray {
     public static void main(String[] args) {
         Person[] people = new Person[3];

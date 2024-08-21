@@ -1,8 +1,11 @@
 package progress.poly;
+
 /**
- * 关于动态绑定机制
- * @auther NixAutumna
+ * @Description : 关于动态绑定
+ * @Author : NixAutumna
+ * @CreateTime : 2024/8/21 22:45
  */
+
 public class DynamicBinding {
     public static void main(String[] args) {
         /*

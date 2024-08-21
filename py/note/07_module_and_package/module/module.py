@@ -1,8 +1,9 @@
-# coding   : utf-8
-# @Version : 1.0
-# @Author  : NixAutumna
-# @File    : module.py
-# @Time    : 2024/8/6 23:45
+# -*- coding: UTF-8 -*-
+"""
+@Description  ：关于模块
+@Author       ：NixAutumna
+@CreateDate   ：2024/8/21 22:45
+"""
 
 # 模块是一个以.py作为后缀的py文件
 # 模块可以定义函数,类和变量,模块里可以包含可执行代码

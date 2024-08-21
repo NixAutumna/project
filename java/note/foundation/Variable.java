@@ -4,10 +4,11 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 /**
- * 关于数据结构
- * @author NixAutumna
- * @version 1.0
+ * @Description : 关于数据结构
+ * @Author : NixAutumna
+ * @CreateTime : 2024/8/21 22:45
  */
+
 public class Variable {
     public static void main(String[] args) {
 

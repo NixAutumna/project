@@ -1,8 +1,11 @@
 package progress.designpattern.single;
+
 /**
- * 关于单例设计模式
- * @auther NixAutumna
+ * @Description : 单例设计模式
+ * @Author : NixAutumna
+ * @CreateTime : 2024/8/21 22:45
  */
+
 public class SingleTon {
     public static void main(String[] args) {
         // 当创建一个类时需要很多资源,就希望只有一个被创建的类,使用单例设计模式

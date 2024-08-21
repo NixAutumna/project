@@ -1,9 +1,11 @@
 package progress.encapsulation;
 
 /**
- * 关于封装
- * @auther NixAutumna
+ * @Description : 关于封装
+ * @Author : NixAutumna
+ * @CreateTime : 2024/8/21 22:45
  */
+
 public class Encapsulation {
     public static void main(String[] args) {
         Enc enc = new Enc();

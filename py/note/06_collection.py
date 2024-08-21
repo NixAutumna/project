@@ -1,8 +1,9 @@
-# coding   : utf-8
-# @Version : 1.0
-# @Author  : NixAutumna
-# @File    : 06_collection.py
-# @Time    : 2024/8/5 13:21
+# -*- coding: UTF-8 -*-
+"""
+@Description  ：关于数据容器
+@Author       ：NixAutumna
+@CreateDate   ：2024/8/21 22:45
+"""
 
 # 数据容器或称容器是一种数据类型
 # 数据容器可以存放多个数据,每个数据被称作元素

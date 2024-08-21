@@ -2,10 +2,13 @@
 // 要放在类的最上面
 //一个类最多一个package
 package progress.bag;
+
 /**
- * 关于包
- * @auther NixAutumna
+ * @Description : 关于包
+ * @Author : NixAutumna
+ * @CreateTime : 2024/8/21 22:45
  */
+
 public class Bag {
     public static void main(String[] args) {
         /*

@@ -1,8 +1,9 @@
-# coding   : utf-8
-# @Version : 1.0
-# @Author  : NixAutumna
-# @File    : 03_operator.py
-# @Time    : 2024/8/2 14:45
+# -*- coding: UTF-8 -*-
+"""
+@Description  ：关于操作符
+@Author       ：NixAutumna
+@CreateDate   ：2024/8/21 22:45
+"""
 
 # 算数运算符
 print(5 + 5)  # +表示加

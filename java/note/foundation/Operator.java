@@ -1,11 +1,11 @@
 package foundation;
 
 /**
- * 关于运算符
- *
- * @author NixAutumna
- * @version 1.0
+ * @Description : 关于运算符
+ * @Author : NixAutumna
+ * @CreateTime : 2024/8/21 22:45
  */
+
 public class Operator {
     public static void main(String[] args) {
         

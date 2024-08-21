@@ -1,9 +1,11 @@
 package progress.static_;
 
 /**
- * 关于类变量
- * @auther NixAutumna
+ * @Description : 关于类变量
+ * @Author : NixAutumna
+ * @CreateTime : 2024/8/21 22:45
  */
+
 public class StaticVariables {
     public static void main(String[] args) {
         /*

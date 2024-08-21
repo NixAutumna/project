@@ -1,8 +1,11 @@
-package progress.override_;
+package progress.extends_;
+
 /**
- * 关于方法重写
- * @auther NixAutumna
+ * @Description : 关于重写
+ * @Author : NixAutumna
+ * @CreateTime : 2024/8/21 22:45
  */
+
 public class Override {
     public static void main(String[] args) {
         Dog dog = new Dog();

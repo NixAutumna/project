@@ -1,8 +1,11 @@
 package progress.abstract_;
+
 /**
- * 关于abstract
- * @auther NixAutumna
+ * @Description : 关于abstract
+ * @Author : NixAutumna
+ * @CreateTime : 2024/8/21 22:45
  */
+
 public class Abstract {
     public static void main(String[] args) {
         /*

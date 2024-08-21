@@ -1,11 +1,13 @@
 package foundation;
 
 import java.util.Scanner;
+
 /**
- * 关于程序控制结构
- * @author NixAutumna
- * @version 1.0
+ * @Description : 关于程序控制结构
+ * @Author : NixAutumna
+ * @CreateTime : 2024/8/21 22:45
  */
+
 public class ControlStructure {
     public static void main(String[] args) {
 
@@ -120,11 +122,11 @@ public class ControlStructure {
          */
         double score = scanner.nextDouble();
         if (score <= 100 && score >= 0) {
-            switch ((int)(score / 60)) {
-                case 0 :
+            switch ((int) (score / 60)) {
+                case 0:
                     System.out.println("不合格");
                     break;
-                case 1 :
+                case 1:
                     System.out.println("合格");
                     break;
             }
@@ -135,27 +137,27 @@ public class ControlStructure {
         System.out.println("请输入月份");
         int month = scanner.nextInt();
         switch (month) {
-            case 3 :
-            case 4 :
-            case 5 :
+            case 3:
+            case 4:
+            case 5:
                 System.out.println("春季");
                 break;
-            case 6 :
-            case 7 :
-            case 8 :
+            case 6:
+            case 7:
+            case 8:
                 System.out.println("夏季");
                 break;
-            case 9 :
-            case 10 :
-            case 11 :
+            case 9:
+            case 10:
+            case 11:
                 System.out.println("秋季");
                 break;
-            case 12 :
-            case 1 :
-            case 2 :
+            case 12:
+            case 1:
+            case 2:
                 System.out.println("冬季");
                 break;
-            default :
+            default:
                 System.out.println("输入有误");
         }
         /*
@@ -189,7 +191,7 @@ public class ControlStructure {
         int count = 0;
         for (int i = 1; i <= 100; i++) {
             if (i % 9 == 0) {
-                count ++;
+                count++;
             }
         }
         System.out.println(count);
@@ -197,7 +199,7 @@ public class ControlStructure {
         int num1 = 0;
         int num2 = scanner.nextInt();
         int num3 = num2;
-        for (;num1 <= num2; num1++, num3--) {
+        for (; num1 <= num2; num1++, num3--) {
             System.out.println(num1 + "+" + num3 + "=" + num2);
         }
 
@@ -216,7 +218,7 @@ public class ControlStructure {
          */
         int num4 = scanner.nextInt();
         int j = 0;
-        while(j <= num4) {
+        while (j <= num4) {
             System.out.println(j + "+" + (num4 - j) + "+" + "=" + num4);
             j++;
         }
@@ -249,9 +251,9 @@ public class ControlStructure {
         把循环放在循环内部，嵌套不超过3层
         总循环次数是每层循环次数的积
          */
-        for (int num5 = 1; num5 < 10; num5 ++) {// 设置第一个乘数，在每一次循环后加1
+        for (int num5 = 1; num5 < 10; num5++) {// 设置第一个乘数，在每一次循环后加1
             // 设置第二个乘数，在每一次循环后加一且小于第一个乘数
-            for (int num6 = 1; num6 <= num5; num6 ++) {
+            for (int num6 = 1; num6 <= num5; num6++) {
                 System.out.print(num6 + "*" + num5 + "=" + (num5 * num6) + '\t');
                 // 打印每一个乘法式子后空一个制表位
             }
@@ -294,9 +296,9 @@ public class ControlStructure {
          */
         int num = 1;
         int random;
-        for (;;) {
-            random = (int)(Math.random() * 100) + 1;
-            if (random == 97){
+        for (; ; ) {
+            random = (int) (Math.random() * 100) + 1;
+            if (random == 97) {
                 break;
             }
             num++;
@@ -322,7 +324,8 @@ public class ControlStructure {
         结束标签所在的那次循环
         无标签默认结束最近循环
          */
-        label1:for (int w = 0; w < 4; w++) {// 循环执行4次，默认条件
+        label1:
+        for (int w = 0; w < 4; w++) {// 循环执行4次，默认条件
             for (int k = 0; k < 10; k++) {// 默认条件执行10次
                 if (k == 2) {
                     continue label1;// 在i == 2也就是第三次的时候结束那次循环

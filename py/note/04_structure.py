@@ -1,8 +1,9 @@
-# coding   : utf-8
-# @Version : 1.0
-# @Author  : NixAutumna
-# @File    : 04_structure.py
-# @Time    : 2024/8/3 14:18
+# -*- coding: UTF-8 -*-
+"""
+@Description  ：程序控制结构相关
+@Author       ：NixAutumna
+@CreateDate   ：2024/8/21 22:45
+"""
 
 # 顺序控制:从上倒下按序执行,定义变量时采用合法的前向引用
 

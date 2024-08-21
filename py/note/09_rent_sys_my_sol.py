@@ -1,8 +1,9 @@
-# coding   : utf-8
-# @Version : 1.0
-# @Author  : NixAutumna
-# @File    : 09_rent_sys_my_sol.py
-# @Time    : 2024/8/10 12:05
+# -*- coding: UTF-8 -*-
+"""
+@Description  ：房屋出租系统作业
+@Author       ：NixAutumna
+@CreateDate   ：2024/8/21 22:45
+"""
 
 main_face = """
 ===========房屋出租系统菜单===========

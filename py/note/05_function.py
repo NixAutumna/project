@@ -1,8 +1,9 @@
-# coding   : utf-8
-# @Version : 1.0
-# @Author  : NixAutumna
-# @File    : 05_function.py
-# @Time    : 2024/8/4 11:22
+# -*- coding: UTF-8 -*-
+"""
+@Description  ：关于函数
+@Author       ：NixAutumna
+@CreateDate   ：2024/8/21 22:45
+"""
 
 # 为了完成某一个功能的程序指令集合称为函数
 # 函数包括系统函数和自定义函数

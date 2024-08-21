@@ -1,8 +1,9 @@
-# coding   : utf-8
-# @Version : 1.0
-# @Author  : NixAutumna
-# @File    : 02_variable.py
-# @Time    : 2024/7/30 14:33
+# -*- coding: UTF-8 -*-
+"""
+@Description  ：变量相关
+@Author       ：NixAutumna
+@CreateDate   ：2024/8/21 22:45
+"""
 import sys
 from decimal import Decimal
 

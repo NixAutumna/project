@@ -1,8 +1,11 @@
 package progress.poly;
+
 /**
- * 关于多态参数
- * @auther NixAutumna
+ * @Description : 关于多态参数
+ * @Author : NixAutumna
+ * @CreateTime : 2024/8/21 22:45
  */
+
 public class PolyParameter {
     
     public static void main(String[] args) {

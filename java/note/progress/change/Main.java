@@ -3,9 +3,11 @@ package progress.change;
 import java.util.Scanner;
 
 /**
- * 零钱通主方法
- * @auther NixAutumna
+ * @Description : 实现零钱通作业
+ * @Author : NixAutumna
+ * @CreateTime : 2024/8/21 22:45
  */
+
 public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

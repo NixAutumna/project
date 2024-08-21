@@ -1,8 +1,11 @@
 package progress.designpattern.single;
+
 /**
- * 关于抽象模板设计模式
- * @auther NixAutumna
+ * @Description : 抽象模版设计模式
+ * @Author : NixAutumna
+ * @CreateTime : 2024/8/21 22:45
  */
+
 public class Template {
     public static void main(String[] args) {
         Y y = new Y();

@@ -1,8 +1,11 @@
 package progress.interface_;
+
 /**
- * 关于接口
- * @auther NixAutumna
+ * @Description : 关于接口
+ * @Author : NixAutumna
+ * @CreateTime : 2024/8/21 22:45
  */
+
 public class Interface {
     public static void main(String[] args) {
         /*

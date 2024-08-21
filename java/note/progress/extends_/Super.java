@@ -1,8 +1,11 @@
-package progress.super_;
+package progress.extends_;
+
 /**
- * 关于super
- * @auther NixAutumna
+ * @Description : 关于super
+ * @Author : NixAutumna
+ * @CreateTime : 2024/8/21 22:45
  */
+
 public class Super {
     public static void main(String[] args) {
         /*
@@ -68,9 +71,9 @@ class Dad extends BaseGrandpa{
     }
 }
 
-class Son extends Dad{}
+class Son1 extends Dad{}
 
-class GrandSon extends Son{
+class GrandSon extends Son1{
     void sd() {
         super.sd();// 访问Dad的sd
         /*

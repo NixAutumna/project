@@ -1,8 +1,9 @@
-# coding   : utf-8
-# @Version : 1.0
-# @Author  : NixAutumna
-# @File    : oper.py
-# @Time    : 2024/8/10 19:48
+# -*- coding: UTF-8 -*-
+"""
+@Description  ：关于文件操作
+@Author       ：NixAutumna
+@CreateDate   ：2024/8/21 22:45
+"""
 import os.path
 import time
 

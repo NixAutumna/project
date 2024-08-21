@@ -1,8 +1,9 @@
-# coding   : utf-8
-# @Version : 1.0
-# @Author  : NixAutumna
-# @File    : 08_oop.py
-# @Time    : 2024/8/7 19:51
+# -*- coding: UTF-8 -*-
+"""
+@Description  ：简单面向对象
+@Author       ：NixAutumna
+@CreateDate   ：2024/8/21 22:45
+"""
 
 # 一个类相当于一个数据类型,当类被具体化后成为实例
 class C:
